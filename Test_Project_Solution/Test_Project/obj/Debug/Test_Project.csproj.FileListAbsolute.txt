@@ -1,0 +1,7 @@
+D:\CS_Projects\Test_Project_Solution\Test_Project\bin\Debug\Test_Project.exe.config
+D:\CS_Projects\Test_Project_Solution\Test_Project\bin\Debug\Test_Project.exe
+D:\CS_Projects\Test_Project_Solution\Test_Project\bin\Debug\Test_Project.pdb
+D:\CS_Projects\Test_Project_Solution\Test_Project\obj\Debug\Test_Project.csproj.AssemblyReference.cache
+D:\CS_Projects\Test_Project_Solution\Test_Project\obj\Debug\Test_Project.csproj.CoreCompileInputs.cache
+D:\CS_Projects\Test_Project_Solution\Test_Project\obj\Debug\Test_Project.exe
+D:\CS_Projects\Test_Project_Solution\Test_Project\obj\Debug\Test_Project.pdb

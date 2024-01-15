@@ -1,0 +1,14 @@
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.exe.config
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.exe
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.pdb
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.csproj.AssemblyReference.cache
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.csproj.CoreCompileInputs.cache
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.exe
+D:\CS_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.pdb
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.exe.config
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.exe
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\bin\Debug\Day_02_Work_01.pdb
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.csproj.AssemblyReference.cache
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.exe
+D:\C#_Projects\Class 02\Day_02_Works\Day_02_Work_01\obj\Debug\Day_02_Work_01.pdb
