@@ -1,0 +1,7 @@
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\bin\Debug\Day_03_Work_01.exe.config
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\bin\Debug\Day_03_Work_01.exe
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\bin\Debug\Day_03_Work_01.pdb
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\obj\Debug\Day_03_Work_01.csproj.AssemblyReference.cache
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\obj\Debug\Day_03_Work_01.csproj.CoreCompileInputs.cache
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\obj\Debug\Day_03_Work_01.exe
+D:\C#_Projects\Class 03\Day_03_Works\Day_03_Work_01\obj\Debug\Day_03_Work_01.pdb
