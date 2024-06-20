@@ -14,7 +14,7 @@ namespace Class_01_Work_01
 
             Console.WriteLine(today.ToString("yyyy-MM-dd hh:mm tt"));
             Console.WriteLine("{0:MMMM dd, yyyy hh:mm:ss tt}", now);
-            Console.WriteLine($"{now.AddHours(12):ddd dd/MM/yyyy HH:MM}");
+            Console.WriteLine($"{now.AddHours(12):ddd dd/MM/yyyy}");
             Console.WriteLine($@"Time now:{now: hh:mm tt}");
 
             Console.ReadLine();
